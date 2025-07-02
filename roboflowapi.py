@@ -4,7 +4,7 @@ from inference_sdk import InferenceHTTPClient
 
 CLIENT = InferenceHTTPClient(
     api_url="https://detect.roboflow.com",
-    api_key="ZGTSq44QFxJo3d6zVITd"
+    api_key="#########"
 )
 
 result = CLIENT.infer( "D:\\Intern_Image\\Healthy Potatoes\\29.jpg",model_id="potato-detection-3et6q/11")
