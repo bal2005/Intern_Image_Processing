@@ -5,7 +5,7 @@ from inference_sdk import InferenceHTTPClient
 # Initialize the client
 CLIENT = InferenceHTTPClient(
     api_url="https://outline.roboflow.com",
-    api_key="ZGTSq44QFxJo3d6zVITd"
+    api_key="#########"
 )
 
 # Path to the single image you want to process
